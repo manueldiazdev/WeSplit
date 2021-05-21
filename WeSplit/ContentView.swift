@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     @State private var count = ""
     @State private var bcount = 0
-    let selection = ["jammms", "thicc", "nega"]
+    let selection = ["jammms", "thicc", "mega"]
     @State private var selected = 0
     var body: some View {
         NavigationView{
